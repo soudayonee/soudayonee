@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=25&color=2196F3&center=true&vCenter=true&width=500&lines=Web+Developer;Specially+Backend;PHP+%7C+JavaScript+%7C+Python;Enjoy+Exploring+new+Things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=25&color=2196F3&center=true&vCenter=true&width=500&lines=Web+Developer;Especially+Backend;PHP+%7C+JavaScript+%7C+Python;Enjoy+Exploring+new+Things!)
   
   <div>
     <a  href="https://www.naufaladityayahya.me/">
