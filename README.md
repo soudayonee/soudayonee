@@ -82,8 +82,8 @@ const me = {
 <ul>
     <li>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="85" />
-
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=soudayonee&show_icons=true&theme=tokyonight&hide_border=true)
+      
+  ![My Github Stats](https://github-stats-extended.vercel.app/api?username=soudayonee&show_icons=true&theme=tokyonight&hide_border=true)
   ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soudayonee&layout=compact&theme=tokyonight&hide_border=true)
     </li>
     <li>
