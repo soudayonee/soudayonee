@@ -84,12 +84,12 @@ const me = {
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="85" />
       
   ![My Github Stats](https://github-stats-extended.vercel.app/api?username=soudayonee&show_icons=true&theme=tokyonight&hide_border=true)
-  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soudayonee&layout=compact&theme=tokyonight&hide_border=true)
+  ![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=soudayonee&layout=compact&theme=tokyonight&hide_border=true)
     </li>
     <li>
         <img src="https://img.shields.io/badge/Wakatime-181717?style=flat-square&logo=Wakatime&logoColor=white" width="105" />
         
-  ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blythes&range=all_time&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
+  ![My Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=blythes&range=all_time&custom_title=Bahasa%20Yang%20Paling%20Sering%20Digunakan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
     </li>
 </ul>
 
