@@ -89,7 +89,7 @@ const me = {
     <li>
         <img src="https://img.shields.io/badge/Wakatime-181717?style=flat-square&logo=Wakatime&logoColor=white" width="105" />
         
-  ![My Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=blythes&range=all_time&custom_title=Bahasa%20Yang%20Paling%20Sering%20Digunakan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
+  ![My Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=blythes&range=all_time&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
     </li>
 </ul>
 
